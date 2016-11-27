@@ -162,7 +162,8 @@ bar {
 
 # Lock screen on pressing $mode+control+l
 # The script for locking screen is hand written and resides somewhere in the system.
-# The key combination just executes that script
+# The key combination just executes that script. The script can be found in the 
+# scripts directory of this repository
 bindsym $mod+Control+l exec /home/heisenberg/Codes/scripts/lock.sh
 
 # Enable keyboard volume buttons to work appropriately
