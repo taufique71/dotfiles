@@ -15,3 +15,4 @@
 13. [vim-airline](https://github.com/vim-airline/vim-airline)
 14. [vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)
 15. [vim-fugitive](https://github.com/tpope/vim-fugitive)
+16. [vim-go](https://github.com/fatih/vim-go)
