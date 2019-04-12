@@ -6,6 +6,7 @@ This is the list of Vim commands which became useful to me.
 - [Tabs](#tabs)
 - [Line Movement](#line-movement)
 - [Search](#search)
+- [Modes](#modes)
 
 ##### Tabs
 - `:gt` - Switch to next tab
@@ -32,3 +33,7 @@ To move a block of lines -
 - `*` - Searches further occurance of the token on which cursor is placed currently
 - `:set hlsearch` - Highlights all the texts found in search result
 - `:nohlsearch` - Removes search highlights
+
+##### Modes
+- `:set ro` - Sets readonly mode for the opened file
+- `:set noro` - Sets writable mode for opened file
