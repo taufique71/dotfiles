@@ -33,6 +33,7 @@ To move a block of lines -
 - `*` - Searches further occurance of the token on which cursor is placed currently
 - `:set hlsearch` - Highlights all the texts found in search result
 - `:nohlsearch` - Removes search highlights
+- `:%s/<search item>//gn` - Count rearch result
 
 ##### Modes
 - `:set ro` - Sets readonly mode for the opened file
